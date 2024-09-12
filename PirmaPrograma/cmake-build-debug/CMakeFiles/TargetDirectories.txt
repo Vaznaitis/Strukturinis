@@ -1,0 +1,3 @@
+C:/Users/s054540/Documents/Strukturinis/PirmaPrograma/cmake-build-debug/CMakeFiles/PirmaPrograma.dir
+C:/Users/s054540/Documents/Strukturinis/PirmaPrograma/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/s054540/Documents/Strukturinis/PirmaPrograma/cmake-build-debug/CMakeFiles/rebuild_cache.dir
